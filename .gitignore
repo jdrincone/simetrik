@@ -1,0 +1,20 @@
+# Secretos — NUNCA commitear
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.ruff_cache/
+
+# Outputs generados
+output/
+
+# OS
+.DS_Store
