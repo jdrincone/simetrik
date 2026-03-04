@@ -13,8 +13,8 @@ dist/
 build/
 .ruff_cache/
 
-# Outputs generados
-output/
+# Outputs generados (comentado — los outputs son las respuestas esperadas de la prueba)
+# output/
 
 # OS
 .DS_Store
