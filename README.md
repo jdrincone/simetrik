@@ -42,7 +42,7 @@ Solución a los tres puntos de la prueba técnica de integraciones.
 ## Instalación
 
 ```bash
-git clone <repo>
+git clone https://github.com/jdrincone/simetrik.git
 cd simetrik
 
 # Instalar dependencias
